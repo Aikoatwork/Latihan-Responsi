@@ -1,3 +1,3 @@
-# latres
+# Latihan Responsi Praktikum Pemrograman Aplikasi Mobile
 
-A new Flutter project.
+Bagas Luqman Nur Hakim - 124220004
